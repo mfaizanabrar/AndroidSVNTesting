@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         //Changing from Mohammad Faizan Abrar
 
         String a="Abcdefghijklmnop";
+        String b="Abcdefghijklmnop";
     }
 }
